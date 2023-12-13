@@ -47,7 +47,9 @@ The Power BI dashboard presents an intuitive visualization of sales trends, prov
 ### This Report have 3 pages :
 - Dashboard Overview
 - Monthly Performance
-- Detailed Customer 
+- Detailed Customer
+
+### You can interact with report here [Novypro](https://www.novypro.com/project/superstore-sales-8)
 
 ## Conclusion & Recommendation
 
