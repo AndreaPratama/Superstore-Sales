@@ -32,6 +32,8 @@ The data underwent transformation processes, ensuring its compatibility with Pow
 
 DAX measures were employed to create an effective model for analyzing sales trends, facilitating accurate and precise reporting within the Power BI environment.
 
+![](relationship_table.png)
+
 - Dax that I used in this project.
 
 Crate Measure 
